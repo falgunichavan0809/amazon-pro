@@ -1,6 +1,6 @@
 {
     "name": "nira",
-    "dispaly": "standalone",
+    "display": "standalone",
     "icons": [
         {
             "src": "./assets/images/logo-48x48.png",
